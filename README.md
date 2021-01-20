@@ -5,7 +5,7 @@ Old project uploaded late. Completed on Fri 13 Nov 2020 at 01:35
 
 There was a small deal of planning that went into this project. Firstly I came up with and planned a theme for my project. I choose us presidents as it was highly topical at the time and fit the clients brief (of a top trumps game).Then I opted to use a class to generate the cards. The first step in my planning was drawing out the class diagram. This has been recreated on ms-paint and has been shown below:
 
-![](Card_Plan.png)
+![](Class_Plan.png)
 
 As you can see the use of classes is fairly basic but the plan helped me to easily code a working class for my project which was a major concern due to this only being the second occasion I have ever attempted object orientated programming. Henceforth from here on in the project I took a more extreme programming approach and the plans became loose and far between. They where also mostly in shorthand therefore I will leave the class diagram as the sole example of my planning. My code was also planned to easily add custom card creation should anytime in the future I decide to do.
 
