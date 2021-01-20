@@ -5,7 +5,7 @@ Old project uploaded late. Completed on Fri 13 Nov 2020 at 01:35
 
 There was a small deal of planning that went into this project. Firstly I came up with and planned a theme for my project. I choose us presidents as it was highly topical at the time and fit the clients brief (of a top trumps game).Then I opted to use a class to generate the cards. The first step in my planning was drawing out the class diagram. This has been recreated on ms-paint and has been shown below:
 
-![](C:\Users\vivek\Documents\Computer Science\Writeups\Top Trumps\Card Class diagram.png)
+![](Card Class diagram.png)
 
 As you can see the use of classes is fairly basic but the plan helped me to easily code a working class for my project which was a major concern due to this only being the second occasion I have ever attempted object orientated programming. Henceforth from here on in the project I took a more extreme programming approach and the plans became loose and far between. They where also mostly in shorthand therefore I will leave the class diagram as the sole example of my planning. My code was also planned to easily add custom card creation should anytime in the future I decide to do.
 
@@ -30,7 +30,7 @@ Other things that where decided was a set of goals:
 
 I opted to go for a simple command line interface for this program. For this project I was on a tight time constraint so the interface is not fully polished yet. However the program is still in what most would consider it's prototype stages. In the future if I revisit this project there are definitely aspects I would improve however an example of the design language of my project has been placed below. That is a top trump card shown as the program would display it.
 
-![](C:\Users\vivek\Documents\Computer Science\Writeups\Top Trumps\p1Deck.png)
+![](p1Deck.png)
 
 As you can see the program has an ascii art feel which I planned to feel quite childish and _toylike_. However without the colour and the styling incomplete it is hard too tell whether I met this objective so I will leave it up to you , yes the reader, to decide.
 
