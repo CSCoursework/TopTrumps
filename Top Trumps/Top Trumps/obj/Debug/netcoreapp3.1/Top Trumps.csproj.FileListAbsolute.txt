@@ -1,0 +1,13 @@
+C:\Users\vivek\Documents\Vs Projects\Top Trumps\Top Trumps\bin\Debug\netcoreapp3.1\Top Trumps.exe
+C:\Users\vivek\Documents\Vs Projects\Top Trumps\Top Trumps\bin\Debug\netcoreapp3.1\Top Trumps.deps.json
+C:\Users\vivek\Documents\Vs Projects\Top Trumps\Top Trumps\bin\Debug\netcoreapp3.1\Top Trumps.runtimeconfig.json
+C:\Users\vivek\Documents\Vs Projects\Top Trumps\Top Trumps\bin\Debug\netcoreapp3.1\Top Trumps.runtimeconfig.dev.json
+C:\Users\vivek\Documents\Vs Projects\Top Trumps\Top Trumps\bin\Debug\netcoreapp3.1\Top Trumps.dll
+C:\Users\vivek\Documents\Vs Projects\Top Trumps\Top Trumps\bin\Debug\netcoreapp3.1\Top Trumps.pdb
+C:\Users\vivek\Documents\Vs Projects\Top Trumps\Top Trumps\obj\Debug\netcoreapp3.1\Top Trumps.csprojAssemblyReference.cache
+C:\Users\vivek\Documents\Vs Projects\Top Trumps\Top Trumps\obj\Debug\netcoreapp3.1\Top Trumps.AssemblyInfoInputs.cache
+C:\Users\vivek\Documents\Vs Projects\Top Trumps\Top Trumps\obj\Debug\netcoreapp3.1\Top Trumps.AssemblyInfo.cs
+C:\Users\vivek\Documents\Vs Projects\Top Trumps\Top Trumps\obj\Debug\netcoreapp3.1\Top Trumps.csproj.CoreCompileInputs.cache
+C:\Users\vivek\Documents\Vs Projects\Top Trumps\Top Trumps\obj\Debug\netcoreapp3.1\Top Trumps.dll
+C:\Users\vivek\Documents\Vs Projects\Top Trumps\Top Trumps\obj\Debug\netcoreapp3.1\Top Trumps.pdb
+C:\Users\vivek\Documents\Vs Projects\Top Trumps\Top Trumps\obj\Debug\netcoreapp3.1\Top Trumps.genruntimeconfig.cache
