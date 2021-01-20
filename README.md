@@ -1,10 +1,5 @@
 # Top Trumps
-
-## Contents:
-
-[TOC]
-
-
+Old project uploaded late. Completed on Fri 13 Nov 2020 at 01:35
 
 ## Planning:
 
